@@ -1,0 +1,18 @@
+﻿Tipo de erro,Nivel de Conformidade,Descrição,Número de ocorrências
+"Sucesso","A","Constatei que todas as imagens da página fazem uso do atributo alt.",1
+"Erro","A","Constatei que a primeira hiperligação da página não permite saltar diretamente para a área do conteúdo principal.",5
+"Erro","A","Não encontrei links para saltar blocos de texto.",5
+"Aviso","AAA","Encontrei 1 cabeçalho na página.",1
+"Erro","AAA","Não encontrei nesta página um cabeçalho principal &lt;H1&gt; marcado.",1
+"Erro","AAA","Encontrei 1 caso em que se viola a sequência hierárquica dos níveis de cabeçalho.",1
+"Erro","A","Localizei 5 itens de lista &lt;li&gt; marcados fora da lista.",5
+"Aviso","A","Encontrei 1 controlo de formulário sem &lt;label&gt; associada.",1
+"Erro","A","Identifiquei 1 controlo de formulário sem o elemento &lt;label&gt; associado e sem o atributo title.",1
+"Erro","AA","Identifiquei 1 caso em que o tamanho de letra está expresso em unidades de medida absolutas.",1
+"Erro","AA","Identifiquei 1 caso na CSS em que se utiliza unidade de medida px para definir a largura das caixas de texto.",1
+"Sucesso","AAA","Identifiquei 1 caso na CSS em que se utiliza unidade de medida relativa para definir a largura das caixas de conteúdo.",1
+"Aviso","AA","Identifiquei 2 regras de CSS em que não se especifica a cor da letra ou a cor do fundo.",2
+"Erro","A","Encontrei 1 elemento obsoleto usado para controlar a apresentação visual.",1
+"Sucesso","A","Constatei que não há atributos obsoletos usados para controlar a apresentação visual.",undefined
+"Erro","A","Constatei que o atributo lang se encontra em falta.","lang"
+"Sucesso","A","Encontrei um título na página e ele parece-me correto.","Hommy-login"
